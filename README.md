@@ -167,7 +167,7 @@ python survey_feedback_analyzer.py
 ```text
 Survey-Feedback-Analyzer/
 │
-├── survey_feedback_analyzer.py
+├── Data.py
 └── README.md
 ```
 
